@@ -130,15 +130,3 @@ Built with ❤️ using Android Studio & Java.
 
 ---
 
-## 📤 Uploading the APK to Share or Deploy
-
-### To upload to Google Drive:
-1. Open [drive.google.com](https://drive.google.com) and log in.
-2. Click **New → File upload** and select your `app-debug.apk`.
-3. Once uploaded, right-click the file → **Get link** → set to "Anyone with the link" and copy the link.
-4. Share the link with testers or friends.
-
-
----
-
-
