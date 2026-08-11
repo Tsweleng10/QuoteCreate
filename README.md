@@ -3,7 +3,7 @@
 A full-featured Android app for creating professional quotes with automatic calculations and PDF export. Built with Java, Room, and iText 7.
 
 ![App Demo](https://via.placeholder.com/800x400.png?text=Quote+App+Demo)
-*(Replace with an actual screenshot or GIF)*
+
 
 ---
 
