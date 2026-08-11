@@ -138,15 +138,7 @@ Built with ❤️ using Android Studio & Java.
 3. Once uploaded, right-click the file → **Get link** → set to "Anyone with the link" and copy the link.
 4. Share the link with testers or friends.
 
-### To upload to a website or app store:
-- For internal testing, use **Firebase App Distribution** or **HockeyApp**.
-- For public release, you'll need to sign your APK and upload to the **Google Play Console** (requires a developer account).
 
 ---
 
-## 🎬 Recording a Demo Video
 
-1. On your phone: use the built-in **Screen Recorder** (Android 10+ has one in Quick Settings) or install a third-party app like **AZ Screen Recorder**.
-2. Record yourself creating a quote, saving it, generating a PDF, and sharing it.
-3. Upload the video to YouTube (make it unlisted if you want) and get the link.
-4. Replace the placeholder URL in the README with your actual YouTube link.
