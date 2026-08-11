@@ -126,7 +126,7 @@ For any questions or feedback, please reach out to [Your Email] or open an issue
 
 ---
 
-Built with ❤️ using Android Studio & Java.
+Built with using Android Studio & Java.
 
 ---
 
